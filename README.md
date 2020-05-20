@@ -1,3 +1,10 @@
-# Portfolio Page
+# Portfolio Page - Unit 8 update
 
-Using Bootstrap framework build a portfolio that is responsive, implements a navbar, and uses responsive images. Must be functional, use semantic HTML and validate.
+## Showcase recently completed group project
+
+## Highlight 2 examplary homework assignements
+
+## Link to updated GitHub profile with pinned repositories 
+
+## Add links to resume and updated LinkedIn profile
+
