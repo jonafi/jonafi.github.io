@@ -8,3 +8,4 @@
 
 ## Add links to resume and updated LinkedIn profile
 
+## Add brand statement and new up-to-date contact info
