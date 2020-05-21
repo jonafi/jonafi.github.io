@@ -38,3 +38,6 @@ footer
 .logo{
     height:32px;
 }
+a:hover{
+    text-decoration:none;
+}
