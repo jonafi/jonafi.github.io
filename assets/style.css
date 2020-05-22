@@ -27,6 +27,7 @@ footer
 .card{
     margin-bottom:20px;
     border:1px solid black;
+    box-shadow: 2px 2px 0px 0px #444;
 
 }
 .card img{border-bottom:1px solid #212529; }
